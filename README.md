@@ -21,9 +21,8 @@
 ```javascript
 const nae = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript, HTML, CSS],
   tools: [React, Node, Styled-Components, Jest],
-  architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         member: "Elas Programam",
                       },
