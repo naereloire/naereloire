@@ -34,4 +34,4 @@ const nae = {
 
 ---
 
-⭐️ From [@Naere Loire](https://github.com/naereloire)
+
