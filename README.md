@@ -11,7 +11,7 @@
 
 
 
-
+[![Twitter: naereloire](https://img.shields.io/twitter/follow/naereloire?style=social)](https://twitter.com/naereloire)
 [![Linkedin: naereloire](https://img.shields.io/badge/-naereloire-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naereloire/)](https://www.linkedin.com/in/naere-loire/)
 [![GitHub Naere](https://img.shields.io/github/followers/naere?label=follow&style=social)](https://github.com/naereloire)
 
@@ -25,8 +25,7 @@ const nae = {
   tools: [React, Node, Styled-Components, Jest],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        organizer: "Elas Programam",
-                        mentor: "Silvia Coelho",
+                        member: "Elas Programam",
                       },
  challenge: "I am doing the laboratoria bootcamp"
 }
