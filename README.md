@@ -1,10 +1,19 @@
 <h2> Hi, I'm Naere! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
-<p><em>Student Developer at <a href="https://www.laboratoria.la/br">Laboratoria</a><img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" 
-</em></p>
 
-[![Linkedin: naereloire](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/naere-loire/)
-[![GitHub Naere](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/naereloire)
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
+
+<p>
+  <em>
+    Student Developer at <a href="https://www.laboratoria.la/br">Laboratoria</a>
+    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em>
+</p>
+
+
+
+
+[![Linkedin: naereloire](https://img.shields.io/badge/-naereloire-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naereloire/)](https://www.linkedin.com/in/naere-loire/)
+[![GitHub Naere](https://img.shields.io/github/followers/naere?label=follow&style=social)](https://github.com/naereloire)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
