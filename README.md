@@ -15,7 +15,7 @@
 [![Linkedin: naereloire](https://img.shields.io/badge/-naereloire-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naereloire/)](https://www.linkedin.com/in/naere-loire/)
 [![GitHub Naere](https://img.shields.io/github/followers/naere?label=follow&style=social)](https://github.com/naereloire)
 
-
+[![GitHib naereloire](https://img.shields.io/github/followers/naere?label=follow&style=social)](https://github.com/naereloire)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
