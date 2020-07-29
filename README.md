@@ -13,9 +13,8 @@
 
 [![Twitter: naereloire](https://img.shields.io/twitter/follow/naereloire?style=social)](https://twitter.com/naereloire)
 [![Linkedin: naereloire](https://img.shields.io/badge/-naereloire-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naereloire/)](https://www.linkedin.com/in/naere-loire/)
-[![GitHub Naere](https://img.shields.io/github/followers/naere?label=follow&style=social)](https://github.com/naereloire)
+![GitHub followers](https://img.shields.io/github/followers/naereloire?style=social)
 
-[![GitHib naereloire](https://img.shields.io/github/followers/naere?label=follow&style=social)](https://github.com/naereloire)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
