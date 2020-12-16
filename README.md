@@ -28,7 +28,16 @@
 const nae = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, SASS, Java],
-  tools: [React, Redux, Node, Styled-Components, Jest, Enzyme, Spock, Docker, Spring Boot],
+  tools: [
+  React, 
+  Redux, 
+  Node, 
+  Styled-Components, 
+  Jest, 
+  Enzyme, 
+  Spock Framework, 
+  Docker, 
+  Spring Boot],
   architecture: ["microservices", "clean-architecture"],
   techCommunities: {
                         member:"Alumnae",
