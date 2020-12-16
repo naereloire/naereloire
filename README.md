@@ -4,8 +4,15 @@
 
 <p>
   <em>
-    Student Developer at <a href="https://www.laboratoria.la/br">Laboratoria</a>
+    Graduated Developer in  <a href="https://www.laboratoria.la/br">Laboratoria</a>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em>
+</p>
+
+<p>
+  <em>
+   Software Enginner at <a href="https://ciandt.com/br/pt-br/sobre-nos">CI&T</a>
+    <img src="https://media.giphy.com/media/K9Xy6osm73DbxIa8f2/source.gif" width="30">
 </em>
 </p>
 
@@ -20,12 +27,16 @@
 ```javascript
 const nae = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node, Styled-Components, Jest],
+  code: [Javascript, HTML, CSS, SASS, Java],
+  tools: [React, Redux, Node, Styled-Components, Jest, Enzyme, Spock, Docker, Spring Boot],
+  architecture: ["microservices", "clean-architecture"],
   techCommunities: {
-                        member: "Elas Programam",
+                        member:"Alumnae",
+                        member:"Elas Programam",
+                        member:"WoMakersCode",
+                        member:"Developer Lady"
                       },
- challenge: "I am doing the laboratoria bootcamp"
+ challenge: "learning backend"
 }
 ```
 
