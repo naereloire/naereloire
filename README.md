@@ -25,7 +25,7 @@
  
  <h3>More about me... </h3>  
  
- <img src="https://media.giphy.com/media/tKnKL3bc6WB4R4VM1o/giphy.gif" width="80"> 
+ <img src="https://media.giphy.com/media/tKnKL3bc6WB4R4VM1o/giphy.gif" width="180"> 
 
 ```javascript
 const nae = {
