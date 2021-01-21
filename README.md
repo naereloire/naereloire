@@ -5,14 +5,14 @@
 <p>
   <em>
     Graduated Developer in  <a href="https://www.laboratoria.la/br">Laboratoria</a>
-    <img src="https://media.giphy.com/media/lrCjVjtqL5MoeDwEWh/giphy.gif" width="50">
+    <img src="https://media.giphy.com/media/lrCjVjtqL5MoeDwEWh/giphy.gif" width="80">
 </em>
 </p>
 
 <p>
   <em>
    Software Enginner at <a href="https://ciandt.com/br/pt-br/sobre-nos">CI&T</a>
-    <img src="https://media.giphy.com/media/zcAe5PjguKsqVKqjuw/giphy.gif" width="30">
+    <img src="https://media.giphy.com/media/zcAe5PjguKsqVKqjuw/giphy.gif" width="50">
 </em>
 </p>
 
