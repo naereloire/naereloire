@@ -22,8 +22,10 @@
 [![Linkedin: naereloire](https://img.shields.io/badge/-naereloire-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naereloire/)](https://www.linkedin.com/in/naere-loire/)
 ![GitHub followers](https://img.shields.io/github/followers/naereloire?style=social)
 
+ 
+ <h3>More about me... </h3>  
+ 
  <img src="https://media.giphy.com/media/tKnKL3bc6WB4R4VM1o/giphy.gif" width="80"> 
- <h3>More about me...</h3>  
 
 ```javascript
 const nae = {
