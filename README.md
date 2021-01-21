@@ -1,18 +1,18 @@
-<h2> Hi, I'm Naere! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Naere! <img src="https://media.giphy.com/media/2m1WUiwkhg0zVFlw7d/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/UVZ1M8bVwpaF7MTYNk/giphy.gif" width="230">
 
 <p>
   <em>
     Graduated Developer in  <a href="https://www.laboratoria.la/br">Laboratoria</a>
-    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+    <img src="https://media.giphy.com/media/lrCjVjtqL5MoeDwEWh/giphy.gif" width="50">
 </em>
 </p>
 
 <p>
   <em>
    Software Enginner at <a href="https://ciandt.com/br/pt-br/sobre-nos">CI&T</a>
-    <img src="https://media.giphy.com/media/K9Xy6osm73DbxIa8f2/source.gif" width="30">
+    <img src="https://media.giphy.com/media/3WW4Zm1F2MeoU/giphy.gif" width="30">
 </em>
 </p>
 
@@ -22,7 +22,7 @@
 [![Linkedin: naereloire](https://img.shields.io/badge/-naereloire-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naereloire/)](https://www.linkedin.com/in/naere-loire/)
 ![GitHub followers](https://img.shields.io/github/followers/naereloire?style=social)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/tKnKL3bc6WB4R4VM1o/giphy.gif" width="50">  More about me...  
 
 ```javascript
 const nae = {
