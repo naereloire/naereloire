@@ -38,10 +38,7 @@ const nae = {
   Styled-Components, 
   Jest, 
   Enzyme, 
-  Spock Framework, 
-  Docker, 
   Spring Boot],
-  architecture: ["microservices", "clean-architecture"],
   techCommunities: {
                         member:"Alumnae",
                         member:"Elas Programam",
