@@ -36,12 +36,12 @@ const nae = {
   Enzyme, 
   Spring Boot],
   techCommunities: {
-                    member:"Alumnae",
-                    member:"Elas Programam",
-                    member:"WoMakersCode",
-                    member:"Developer Lady"
-                      },
-}
+  member:"Alumnae",
+  member:"Elas Programam",
+  member:"WoMakersCode",
+  member:"Developer Lady"
+  }
+ }
 ```
 
 
