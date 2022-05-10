@@ -27,11 +27,10 @@
 ```javascript
 const nae = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, SASS, Java],
+  code: [Javascript, Node, HTML, CSS, SASS, Java],
   tools: [
   React, 
-  Redux, 
-  Node, 
+  Redux,  
   Styled-Components, 
   Jest, 
   Enzyme, 
@@ -42,7 +41,6 @@ const nae = {
                     member:"WoMakersCode",
                     member:"Developer Lady"
                       },
- challenge: "learning backend"
 }
 ```
 
