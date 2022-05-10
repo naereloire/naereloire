@@ -1,6 +1,5 @@
 <h2> Hi, I'm Nae! <img src="https://media.giphy.com/media/2m1WUiwkhg0zVFlw7d/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/UVZ1M8bVwpaF7MTYNk/giphy.gif" width="230">
 
 <p>
   <em>
