@@ -18,7 +18,6 @@
 
 
 
-[![Twitter: naereloire](https://img.shields.io/twitter/follow/naereloire?style=social)](https://twitter.com/naereloire)
 [![Linkedin: naereloire](https://img.shields.io/badge/-naereloire-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naereloire/)](https://www.linkedin.com/in/naere-loire/)
 ![GitHub followers](https://img.shields.io/github/followers/naereloire?style=social)
 
